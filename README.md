@@ -1,3 +1,5 @@
+## Name:DHARSANKUMAR R
+## Reg no:212223240028N
 ### study-of-basic-gates
 
 AIM: 
@@ -64,7 +66,8 @@ Procedure
 PROGRAM
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
-logicsgates(a,b,y1,y2,y3,y4,y5,y6,y7); 
+```
+module ex01(a,b,y1,y2,y3,y4,y5,y6,y7); 
 input a,b; 
 output y1,y2,y3,y4,y5,y6,y7;
 and(y1,a,b);
@@ -75,7 +78,7 @@ nand(y5,a,b);
 nor(y6,a,b);
 xnor(y7,a,b); 
 endmodule
-
+```
  Developed by:DHARSANKUMAR R RegisterNumber:212223240028 
  
 Logic symbol & Truthtable
