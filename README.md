@@ -64,18 +64,28 @@ Procedure
 PROGRAM
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
-logicsgates(a,b,y1,y2,y3,y4,y5,y6,y7); input a,b; output y1,y2,y3,y4,y5,y6,y7; and(y1,a,b); or(y2,a,b); not(y3,a); xor(y4,a,b); nand(y5,a,b); nor(y6,a,b); xnor(y7,a,b); endmodule
+logicsgates(a,b,y1,y2,y3,y4,y5,y6,y7); 
+input a,b; 
+output y1,y2,y3,y4,y5,y6,y7;
+and(y1,a,b);
+or(y2,a,b); 
+not(y3,a);
+xor(y4,a,b); 
+nand(y5,a,b); 
+nor(y6,a,b);
+xnor(y7,a,b); 
+endmodule
 
  Developed by:DHARSANKUMAR R RegisterNumber:212223240028 
  
 Logic symbol & Truthtable
-![image](https://github.com/DHARSAN23014208/study-of-basic-gates/assets/149365413/95eeae1e-4533-4d33-ae1a-ca8dcd2f260b)
+![de ex01 photo](https://github.com/DHARSAN23014208/study-of-basic-gates/assets/149365413/fa09a100-142c-4efa-8250-8c7be35c7c5e)
 
 RTL realization Output
-![image](https://github.com/DHARSAN23014208/study-of-basic-gates/assets/149365413/f776663f-7e89-45b6-9936-74ce3341c3ad)
+![de](https://github.com/DHARSAN23014208/study-of-basic-gates/assets/149365413/a767a92d-d3e7-4691-a163-b9acbd85e046)
 
 RTL
-![image](https://github.com/DHARSAN23014208/study-of-basic-gates/assets/149365413/9aee7ed5-f123-4f1c-930d-e5d173a8abd8)
+
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
