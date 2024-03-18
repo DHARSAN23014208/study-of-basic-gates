@@ -82,9 +82,11 @@ Logic symbol & Truthtable
 ![de ex01 photo](https://github.com/DHARSAN23014208/study-of-basic-gates/assets/149365413/fa09a100-142c-4efa-8250-8c7be35c7c5e)
 
 RTL realization Output
+RTL:
 ![de](https://github.com/DHARSAN23014208/study-of-basic-gates/assets/149365413/a767a92d-d3e7-4691-a163-b9acbd85e046)
 
-RTL
+output:
+![Screenshot 2024-03-18 085151](https://github.com/DHARSAN23014208/study-of-basic-gates/assets/149365413/44ad79dd-2b9a-4025-98e9-2ea0ef8c146c)
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
