@@ -82,11 +82,13 @@ endmodule
  Developed by:DHARSANKUMAR R RegisterNumber:212223240028 
  
 Logic symbol & Truthtable
-![de ex01 photo](https://github.com/DHARSAN23014208/study-of-basic-gates/assets/149365413/fa09a100-142c-4efa-8250-8c7be35c7c5e)
+![Screenshot 2024-03-18 082351](https://github.com/DHARSAN23014208/study-of-basic-gates/assets/149365413/2e202db3-aaa1-4a76-9f18-deb4103cd9ab)
+
 
 RTL realization Output
 RTL:
-![de](https://github.com/DHARSAN23014208/study-of-basic-gates/assets/149365413/a767a92d-d3e7-4691-a163-b9acbd85e046)
+![Screenshot 2024-03-18 084855](https://github.com/DHARSAN23014208/study-of-basic-gates/assets/149365413/8f16f50e-bb30-48e7-9617-84f8db0f1f1c)
+
 
 output:
 ![Screenshot 2024-03-18 085151](https://github.com/DHARSAN23014208/study-of-basic-gates/assets/149365413/44ad79dd-2b9a-4025-98e9-2ea0ef8c146c)
