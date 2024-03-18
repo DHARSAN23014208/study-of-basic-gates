@@ -70,8 +70,10 @@ logicsgates(a,b,y1,y2,y3,y4,y5,y6,y7); input a,b; output y1,y2,y3,y4,y5,y6,y7; a
  
 Logic symbol & Truthtable
 ![image](https://github.com/DHARSAN23014208/study-of-basic-gates/assets/149365413/95eeae1e-4533-4d33-ae1a-ca8dcd2f260b)
+
 RTL realization Output
 ![image](https://github.com/DHARSAN23014208/study-of-basic-gates/assets/149365413/f776663f-7e89-45b6-9936-74ce3341c3ad)
+
 RTL
 ![image](https://github.com/DHARSAN23014208/study-of-basic-gates/assets/149365413/9aee7ed5-f123-4f1c-930d-e5d173a8abd8)
 Result:
